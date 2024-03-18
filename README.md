@@ -1,4 +1,5 @@
-Bank management system uig c++ 
+Bank management system using c++ 
+
 This is a simple bank system that demonstrates some basic principles of object-oriented programing principles in c++ such as encapsulation, abstraction and providing a user interaction using a menu driven system.
 Abstraction is achieved through the back class where internal details of account management are hidden from the user. The user interacts with the class through well-defined public member functions without the need to know the underlying implementation details.
 Encapsulation is demonstrated by the bank class where data members are kept private and accessed or modified only through public member functions. This ensures data integrity and provides control access to the class properties.
